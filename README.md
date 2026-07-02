@@ -31,9 +31,17 @@
 
 ---
 
-## 📋 Certificaciones y Objetivos
-*   **Enfoque Actual:** Preparación intensiva para **ITIL 4** y **GCP (Google Cloud Platform)** para escalar capacidades en gestión de servicios y cloud computing.
-*   **Intereses:** Auditoría de señales con Flipper Zero, implementación de arquitecturas RAG y mejora continua de sistemas basados en PHP/MySQL.
+## 📜 Certificaciones y Logros
+
+| Certificación | Entidad Emisora | Estado / Año |
+| :--- | :--- | :--- |
+| **ITIL 4 Foundation** | Axelos | En preparación 2026 |
+| **GCP Associate Cloud Engineer** | Google Cloud | En preparación 2026 |
+| **Advance Networking Specialty** | AWS Training Online | Completado 2026 |
+| **CloudOps Enginneer - Asosociate** | AWS Training Online | Completado 2026 |
+| **Data Engineer - Associate** | AWS Training Online | Completado 2026 |
+| **Developer - Associate** | AWS Training Online | Completado 2026 |
+| **Cloud Practitioner** | AWS Training Online | Completado 2026 |
 
 ---
 
