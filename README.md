@@ -10,7 +10,7 @@ Apasionado por la **ciberseguridad**, la automatización de procesos y la constr
 
 ## 🎓 Trayectoria y Experiencia
 
-* **Actualidad:** IT Support N1 en **Capgemini**, gestionando infraestructuras críticas para el cliente UAB (Universitat Autònoma de Barcelona).
+* **Actualidad:** IT Support N1.
 * **Formación:** Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR) con especialización en **Ciberseguridad**.
 * **Experiencia:** Trayectoria en soporte in-situ y formación técnica, consolidada durante mis prácticas profesionales en **Sogemedi**.
 
