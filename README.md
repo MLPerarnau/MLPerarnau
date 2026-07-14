@@ -16,14 +16,6 @@ Apasionado por la **ciberseguridad**, la automatización de procesos y la constr
 
 ---
 
-## 🚀 Proyectos Destacados
-
-* 🤖 **Sophia - CAS Ops Mentor:** Desarrollo de un agente de IA basado en Python y RAG para asistir a equipos de soporte técnico de primer nivel, optimizando la resolución de incidencias y escalados.
-* 🗄️ **Gestión de Infraestructura UAB:** Arquitecto de una plataforma interna (PHP/MySQL) para el control total del ciclo de vida de activos de red: rosetas, racks e inventario técnico.
-* ⚡ **Automatización de Reportes:** Pipeline de automatización mediante Power Automate para la extracción y envío mensual de informes de intervención, reduciendo drásticamente el tiempo operativo.
-
----
-
 ## 🛠️ Arsenal Tecnológico
 
 | Área | Tecnologías |
